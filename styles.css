@@ -1,0 +1,126 @@
+</style>
+</head>
+<body>
+    <header>
+        <div class="logo">
+            <div class="logo-icon">ME</div>
+            <h1>Mundo dos Esportes</h1>
+        </div>
+        <p>Informações diárias sobre tudo que acontece no universo esportivo</p>
+    </header>
+    
+    <nav>
+        <ul>
+            <li><a href="#futebol">Futebol</a></li>
+            <li><a href="#basquete">Basquete</a></li>
+            <li><a href="#tenis">Tênis</a></li>
+            <li><a href="#f1">Fórmula 1</a></li>
+            <li><a href="#olimpiadas">Olímpiadas</a></li>
+            <li><a href="#outros">Outros Esportes</a></li>
+        </ul>
+    </nav>
+    
+    <div class="container">
+        <section class="destaque">
+            <h2>Destaque do Dia</h2>
+            <article>
+                <img src="https://via.placeholder.com/1200x600/5512a8/ffffff?text=Destaque+Esportivo" alt="Destaque do dia">
+                <h3>Seleção Brasileira anuncia novo técnico para o ciclo da Copa do Mundo</h3>
+                <p>Após semanas de especulações, a CBF confirmou nesta terça-feira a contratação do novo comandante da seleção canarinho. O anúncio oficial acontecerá em coletiva marcada para quinta-feira, mas fontes próximas ao departamento de futebol já adiantam que se trata de um treinador estrangeiro com vasta experiência em competições continentais.</p>
+                <p><strong>Fonte:</strong> Redação ME | <strong>Data:</strong> 15/07/2024</p>
+            </article>
+        </section>
+        
+        <section id="futebol">
+            <h2>Futebol</h2>
+            <div class="noticias-grid">
+                <article class="noticia-card">
+                    <span class="esporte-tag">Futebol</span>
+                    <img src="https://via.placeholder.com/600x400/1a1a1a/5512a8?text=Mercado+da+Bola" alt="Mercado da Bola">
+                    <h3>Clube europeu faz oferta milionária por joia do Brasileirão</h3>
+                    <p>O atacante brasileiro, artilheiro do campeonato nacional, está próximo de acertar sua transferência para o velho continente. Os valores envolvidos podem bater recorde para saídas do futebol brasileiro em 2024.</p>
+                    <p><strong>Data:</strong> 14/07/2024</p>
+                </article>
+                
+                <article class="noticia-card">
+                    <span class="esporte-tag">Futebol</span>
+                    <img src="https://via.placeholder.com/600x400/1a1a1a/5512a8?text=Copa+Libertadores" alt="Copa Libertadores">
+                    <h3>Libertadores: Confrontos das quartas de final definidos</h3>
+                    <p>Sorteio realizado nesta manhã em Luque determinou os jogos da próxima fase da competição continental. Destaque para o clássico entre dois gigantes sul-americanos que se enfrentarão em busca de vaga na semifinal.</p>
+                    <p><strong>Data:</strong> 13/07/2024</p>
+                </article>
+                
+                <article class="noticia-card">
+                    <span class="esporte-tag">Futebol</span>
+                    <img src="https://via.placeholder.com/600x400/1a1a1a/5512a8?text=Campeonato+Inglês" alt="Premier League">
+                    <h3>Premier League anuncia mudanças nas regras para próxima temporada</h3>
+                    <p>A liga inglesa divulgou novidades que incluem aumento no número de substituições e novas regras para o VAR. As mudanças começam a valer a partir de agosto e prometem causar polêmica entre técnicos e jogadores.</p>
+                    <p><strong>Data:</strong> 12/07/2024</p>
+                </article>
+            </div>
+        </section>
+        
+        <section id="basquete">
+            <h2>Basquete</h2>
+            <div class="noticias-grid">
+                <article class="noticia-card">
+                    <span class="esporte-tag">Basquete</span>
+                    <img src="https://via.placeholder.com/600x400/1a1a1a/5512a8?text=NBA" alt="NBA">
+                    <h3>NBA: Franquia anuncia construção de nova arena bilionária</h3>
+                    <p>Com investimento que ultrapassa os US$ 2 bilhões, o novo estádio promete revolucionar a experiência dos fãs com tecnologia de ponta. A previsão é que as obras sejam concluídas até o início da temporada 2026-27.</p>
+                    <p><strong>Data:</strong> 14/07/2024</p>
+                </article>
+                
+                <article class="noticia-card">
+                    <span class="esporte-tag">Basquete</span>
+                    <img src="https://via.placeholder.com/600x400/1a1a1a/5512a8?text=NBB" alt="NBB">
+                    <h3>NBB: Temporada regular começa com recorde de público</h3>
+                    <p>Abertura do campeonato brasileiro reuniu mais de 15 mil pessoas no ginásio e marcou o início da era pós-Flamengo como hegemônico. Novas equipes prometem equilibrar a competição nesta edição.</p>
+                    <p><strong>Data:</strong> 13/07/2024</p>
+                </article>
+            </div>
+        </section>
+        
+        <section id="tenis">
+            <h2>Tênis</h2>
+            <div class="noticias-grid">
+                <article class="noticia-card">
+                    <span class="esporte-tag">Tênis</span>
+                    <img src="https://via.placeholder.com/600x400/1a1a1a/5512a8?text=Wimbledon" alt="Wimbledon">
+                    <h3>Wimbledon: Surpresa nas quartas de final</h3>
+                    <p>Jogador fora do top 50 do ranking consegue façanha histórica ao eliminar um dos favoritos ao título. A torcida inglesa já compara o feito a maiores zebras da história do torneio.</p>
+                    <p><strong>Data:</strong> 10/07/2024</p>
+                </article>
+            </div>
+        </section>
+        
+        <section id="f1">
+            <h2>Fórmula 1</h2>
+            <div class="noticias-grid">
+                <article class="noticia-card">
+                    <span class="esporte-tag">Fórmula 1</span>
+                    <img src="https://via.placeholder.com/600x400/1a1a1a/5512a8?text=F1" alt="Fórmula 1">
+                    <h3>GP da Grã-Bretanha: Pole position surpreendente</h3>
+                    <p>Piloto de equipe intermediária consegue o primeiro lugar no grid de largada após sessão de classificação marcada por condições climáticas adversas. Especialistas apontam que a prova pode ter uma das maiores reviravoltas da temporada.</p>
+                    <p><strong>Data:</strong> 08/07/2024</p>
+                </article>
+            </div>
+        </section>
+    </div>
+    
+    <footer>
+        <h3>Mundo dos Esportes</h3>
+        <p>O seu portal de notícias esportivas diárias</p>
+        
+        <div class="footer-links">
+            <a href="#">Sobre</a>
+            <a href="#">Contato</a>
+            <a href="#">Anuncie</a>
+            <a href="#">Termos de Uso</a>
+            <a href="#">Política de Privacidade</a>
+        </div>
+        
+        <p>&copy; 2024 Mundo dos Esportes. Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html>
